@@ -9,7 +9,9 @@ public class Auto {
 	
 	
 	// Variables
-	// Globales
+	// En funcion de su alcance 
+	// Globales se declaran a nivel de la case se subdividen en 2 (Instancia y las estaticas)
+	//variables globales instancia son variables 
 	// Locales 
 	
 	public void nombre () {
